@@ -63,4 +63,33 @@
 
 <img src="cond.png">
 
+## Example of conditional statement 
+
+<img src="exp.png">
+
+### running above code 
+
+<img src="exprun.png">
+
+# Intro to For loop 
+
+<img src="for1.png">
+
+## final shell script 
+
+<img src="final.png">
+
+## Software installer inOS
+
+
+<img src="osins.png">
+
+## root access 
+
+<img src="roota.png">
+
+### JDK install on centos 
+
+<img src="jdk.png">
+
 
