@@ -18,3 +18,9 @@
 
 <img src="cmd.png">
 
+## FOr loop to create directory 
+
+<img src="for.png">
+
+
+
