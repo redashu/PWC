@@ -40,3 +40,46 @@
 
 <img src="type.png">
 
+
+# String operations in Python 
+
+<img src="sts.png">
+
+
+## Dir function in python 
+
+<img src="dir.png">
+
+## Indexing in python 
+
+<img src="id.png">
+
+### string range
+
+<img src="rg.png">
+
+# Getting started with Tuple 
+
+<img src="tuple.png">
+
+## Tuple 
+
+<img src="tuple1.png">
+
+## Indexing concept in python 
+
+<img src="tindex.png">
+
+# List in Python -- the mutable data type 
+
+<img src="list.png">
+
+## opertaions in list 
+
+<img src="opslist.png">
+
+## Indentation in python 
+
+<img src="indent.png">
+
+
