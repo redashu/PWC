@@ -28,6 +28,39 @@
 
 <img src="build.png">
 
+## TO run any code what we need 
+
+<img src="need.png">
+
+## Docker building of images 
+
+### image build 
+
+<img src="shellb.png">
+
+## use of CMD instruction in Dockerfile 
+
+<img src="cmdd.png">
+
+## creating and checking container
+
+<img src="ck.png">
+
+### login into a running container 
+
+<img src="exec.png">
+
+### building docker image for  sample java code
+
+<img src="java.png">
+
+## creating java container 
+
+<img src="javac.png">
+
+## Dockerfile with custom jdk version 
+
+<img src="jdkc.png">
 
 
 
