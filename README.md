@@ -2,7 +2,7 @@
 
 ## day 1 revision 
 
-<img src="day1.png">
+<img src="day1rev.png">
 
 ## vim info 
 
