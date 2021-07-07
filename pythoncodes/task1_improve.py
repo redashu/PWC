@@ -11,14 +11,8 @@ Press 4 to search something on Google :
 Press 5 to run any linux command given by user :
 Press 6 to Directory IN current user Desktop  : 
 Press 7 to reboot your system  :
+Press 8 to exit the code : 
 '''
-print(data)
-
-# taking input from user 
-user_data=input() 
-# input function always accept in str format 
-print("User given ",user_data)
-
 # function to calculate str length
 def  calstr():
 	st=input("Enter any string: ")
@@ -39,18 +33,30 @@ def  runlinux():
 		time.sleep(2)
 		print("current platform is ",sys.platform)
 
-# running options 
-if  user_data  ==  '1' :
-	# calling calstr function 
-	calstr()
-elif  user_data ==   '2'  :
-	mytime=time.ctime()
-	print("Current time is ",mytime)
-elif  user_data ==   '5'  :
-	# calling runlinux function 
-	runlinux()
-else :
-	print("Wrong Input values ..")
+
+while 5 > 3:
+
+	print(data)
+
+	# taking input from user 
+	user_data=input() 
+	# input function always accept in str format 
+	print("User given ",user_data)
+
+	# running options 
+	if  user_data  ==  '1' :
+		# calling calstr function 
+		calstr()
+	elif  user_data ==   '2'  :
+		mytime=time.ctime()
+		print("Current time is ",mytime)
+	elif  user_data ==   '5'  :
+		# calling runlinux function 
+		runlinux()
+	elif user_data ==  '8' :
+		exit() # code finish 
+	else :
+		print("Wrong Input values ..")
 
 
 
