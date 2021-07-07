@@ -97,3 +97,22 @@
 
 <img src="subpr.png">
 
+# COntainerization of python code 
+
+<img src="pyc.png">
+
+## creating container 
+
+<img src="pycc.png">
+
+
+### code testing in container 
+
+<img src="cc.png">
+
+
+### functions in python 
+
+<img src="fun.png">
+
+
