@@ -82,4 +82,18 @@
 
 <img src="indent.png">
 
+# Task1 
+
+## revision 
+
+<img src="rev.png">
+
+## Introduing time module 
+
+<img src="time.png">
+
+
+### subprocess module 
+
+<img src="subpr.png">
 
