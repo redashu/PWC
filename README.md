@@ -115,4 +115,23 @@
 
 <img src="fun.png">
 
+### Modules reality in Python 3
+
+<img src="modreal.png">
+
+### default module location 
+
+<img src="modloc.png">
+
+## For in Python 
+
+<img src="for.png">
+
+### Python module installer 
+
+<img src="pip.png">
+
+### install module only for current user
+
+<img src="modins.png">
 
