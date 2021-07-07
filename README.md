@@ -12,3 +12,13 @@
 
 <img src="auto.png">
 
+
+## View of automation -- CI | CD
+
+<img src="cicd.png">
+
+## Installing  ANsible 
+
+<img src="ansible.png">
+
+
