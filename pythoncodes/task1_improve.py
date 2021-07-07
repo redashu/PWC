@@ -18,17 +18,16 @@ print(data)
 user_data=input() 
 # input function always accept in str format 
 print("User given ",user_data)
-#print("User given "+user_data)
 
-if  user_data  ==  '1' :
+# function to calculate str length
+def  calstr():
 	st=input("Enter any string: ")
 	l=len(st)
-	print("String length is ",l)
-elif  user_data ==   '2'  :
-	mytime=time.ctime()
-	print("Current time is ",mytime)
-elif  user_data ==   '5'  :
-	# taking input 
+	print("Length or String",l)
+
+# function for running linux command 
+
+def  runlinux():
 	cmd=input("enter any linux command : ")
 	if sys.platform ==  'linux' :
 		print("plz wait we are running command ..")
@@ -40,6 +39,19 @@ elif  user_data ==   '5'  :
 		time.sleep(2)
 		print("current platform is ",sys.platform)
 
-
+# running options 
+if  user_data  ==  '1' :
+	# calling calstr function 
+	calstr()
+elif  user_data ==   '2'  :
+	mytime=time.ctime()
+	print("Current time is ",mytime)
+elif  user_data ==   '5'  :
+	# calling runlinux function 
+	runlinux()
 else :
 	print("Wrong Input values ..")
+
+
+
+
