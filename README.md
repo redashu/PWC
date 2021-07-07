@@ -135,3 +135,23 @@
 
 <img src="modins.png">
 
+## Accessing data from URL 
+
+<img src="dataurl.png">
+
+## reading csv from URL 
+
+<img src="pandas.png">
+
+## AUtomation hit and try using python just idea
+
+<img src="pyauto.png">
+
+## Devops -- 
+
+<img src="devops.png">
+
+## Devops automation tool 
+
+<img src="auto.png">
+
