@@ -42,5 +42,25 @@
 
 <img src="webs.png">
 
+## IAC  --pre 
+
+<img src="iacp.png">
+
+## Terraform Offering 
+
+<img src="terraform.png">
+
+## Azure cloud Resource group 
+
+<img src="rsg.png">
+
+## Terraform providers
+
+<img src="tfp.png">
+
+### Terraform providers with HCL 
+
+<img src="hcl.png">
+
 
 
